@@ -3,7 +3,7 @@
 
 const Discord = require("discord.js");
 const myid = ['576873866543104031'];//هنا بتحط الايدى تبع حسابك و هو رقم طول
-const prefix = ['=']; 
+const prefix = ['$']; 
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
